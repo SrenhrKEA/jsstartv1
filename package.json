@@ -2,5 +2,9 @@
   "name": "jsstartv1",
   "version": "1.0.0",
   "dependencies": {
+  },
+  "engines": {
+    "node": ">=18.14.0"
   }
 }
+
